@@ -1,7 +1,9 @@
 # ACER-Nitro5-AN515-52-Opencore
 Acer Nitro5 AN515-52 Hackintosh (Opencore Bootloader)
+
 # Info
-[Screenshot](/image.png)
+[Screenshot](/Docs/about1.png)
+
 **Laptop Specs**
 | Hardware | Details |
 |------------|-------------------------------|
@@ -43,8 +45,11 @@ Acer Nitro5 AN515-52 Hackintosh (Opencore Bootloader)
 
 ### Opencore Config Guide/Explanation
 ***always lookout on full guide first***
+
 *1. Offical documentation when you download the pkg*
+
 *2. [Dortaina CFL Laptop](https://dortania.github.io/OpenCore-Install-Guide/config-laptop.plist/coffee-lake.html#starting-point)*
+
 >**Notes**
 1. This Config `SMBIOS` is `MacBookPro14,3`
 This SMBIOS "Maybe" Required `NoTouchID.kext` for remove TouchID Feature & `SMCLightSensor.kext`+`SSDT-ALS0.aml` for display fake dim sensor
@@ -68,7 +73,7 @@ if you wanna change to something else Check: `USBMap.kext` `Info.plist` SMBios T
 | 11. `SSDT-XOSI.aml` | Trackpad Mapping | I. `Change _OSI to XOSI, pair with SSDT-XOSI.aml`|
 
 # Benchmark Info
-[Nothing Here Yet](/image.png)
+[Geekbench5](/Docs/Geekbench5TEMP.png)
 
 # Credit
 **People who made opencore project and kext**
