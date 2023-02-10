@@ -2,7 +2,7 @@
 Acer Nitro5 AN515-52 Hackintosh (Opencore Bootloader)
 
 # Info
-[Screenshot](/Docs/about1.png)
+![Screenshot](/Docs/about1.png)
 
 **Laptop Specs**
 | Hardware | Details |
@@ -73,7 +73,7 @@ if you wanna change to something else Check: `USBMap.kext` `Info.plist` SMBios T
 | 11. `SSDT-XOSI.aml` | Trackpad Mapping | I. `Change _OSI to XOSI, pair with SSDT-XOSI.aml`|
 
 # Benchmark Info
-[Geekbench5](/Docs/Geekbench5TEMP.png)
+![Geekbench5](/Docs/Geekbench5TEMP.png)
 
 # Credit
 **People who made opencore project and kext**
