@@ -1,3 +1,7 @@
+# Disclosure
+1. This repository is not heavily maintain
+2. If you encounter a problem try asking at the r/hackintosh community first, and create an "Issues" in here less likely to get respond
+
 # ACER-Nitro5-AN515-52-Opencore
 Acer Nitro5 AN515-52 Hackintosh (Opencore Bootloader)
 
